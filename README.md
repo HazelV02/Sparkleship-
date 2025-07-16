@@ -1,0 +1,2 @@
+# Sparkleship-
+Scholarship Platform: Sparkleship
