@@ -1,3 +1,3 @@
-# Sparkleship-
+# Sparkleship
 Scholarship Platform: Sparkleship
 designed and developed a scholarship recommendation system powered by AI. This system removes the need for manual data entry and filtering by using a custom web crawler and smart models. It gathers global scholarship data in real time and uses natural language processing (NLP) and large language models (LLMs) like (GPTo3) to analyze and match opportunities to student profiles accurately. Users get a detailed breakdown of their eligibility, showing required, missing, and optional criteria to boost their chances of acceptance. The solution provides constant access to updated opportunities. It also includes a community-driven support feature, allowing students to collaborate and get advice from verified advisors. This project shows how AI can automate decision-making, personalize results, and improve access to educational opportunities worldwide.
